@@ -1,7 +1,7 @@
 # Custom Power Plug and Automated Lighting Solution for College Hostels.
 - Presented a solution for college hostels that optimizes energy usage and promotes sustainability. 
-- Proposed a idea that consists of a custom plug with limited output.
-- our solution consists of automated lighting and other appliances that adjust with the presence of occupants. 
+- Proposed an idea that consists of a custom plug with limited output.
+- Our solution consists of automated lighting and other appliances that adjust with the presence of occupants. 
 - Our solution enhances power efficiency, conserves energy, and improves convenience and safety for students and hostel administrators.
 # Certificate of Appreciation
 ![Energy Conservation Project Certificate](https://github.com/user-attachments/assets/1998bbe1-aeb5-4bd8-b6bf-d3069c370ab6)
